@@ -16,6 +16,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ## directions for running script
 
 1. download the dataset file and unzip to a folder
-2. set working directory to the folder
+2. move to the folder or set working directory to the folder
 3. run the script file - run_analysis.R
 4. the tidy dataset file - "averageData.txt" will be created in the folder 
